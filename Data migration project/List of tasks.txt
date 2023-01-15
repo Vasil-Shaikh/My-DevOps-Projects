@@ -1,0 +1,11 @@
+In this project I learnt how to:
+✅ Build a 3-tier VPC with public and private subnets in 2 AZs.
+✅ Create a Nat Gateway to allow internet access to private resources.
+✅ Set up security groups in AWS.
+✅ Set up an MYSQL RDS instance in AWS.
+✅ Create a key pair in AWS.
+✅ Set up a bastion host with an Amazon EC2 instance.
+✅ Download Flyway on your computer.
+✅ Update the Flyway Configuration File on your computer.
+✅ Organize your SQL scripts in Flyway.
+✅ Securely run Flyway Migrate with an SSH tunnel.
