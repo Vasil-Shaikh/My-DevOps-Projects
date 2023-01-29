@@ -1,0 +1,4 @@
+#!/bin/bash
+git clone https://bitbucket.org/dptrealtime/html-web-app.git
+cp -r html-web-app/* /var/www/html/
+systemctl start httpd && systemctl enable httpd
