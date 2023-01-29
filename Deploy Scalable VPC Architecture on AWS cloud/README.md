@@ -1,7 +1,7 @@
 
 ## Source/Credits
 
-The project source code & idea belongs to the below website
+The project source code & idea belongs:
 https://www.devopsrealtime.com/deploy-scalable-vpc-architecture-on-aws-cloud/
 
 I did not find the author on LinkedIn or Github to give a shout-out. Do let me know in case you do, would love to tag their account here.
