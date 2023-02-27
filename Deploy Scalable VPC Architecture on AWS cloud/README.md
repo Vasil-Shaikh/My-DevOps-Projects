@@ -1,4 +1,4 @@
-
+![image](https://github.com/Vasil-Shaikh/My-DevOps-Projects/blob/4371317c33e8dd01493b3d7e53512b2b0db97496/Deploy%20Scalable%20VPC%20Architecture%20on%20AWS%20cloud/VPC%20Architecture%20Diagram.jpeg)
 ## Source/Credits
 
 The project source code & idea belongs:
